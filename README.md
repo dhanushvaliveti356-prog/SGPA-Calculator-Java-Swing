@@ -11,3 +11,8 @@ Features:
 How to Run:
 1. javac CGPACalculator.java
 2. java CGPACalculator
+
+## Application Screenshot
+
+![CGPA Calculator UI](cgpa.png)
+
