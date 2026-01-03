@@ -18,7 +18,7 @@ class SgpaCalculator implements ActionListener
     SgpaCalculator()
     {
         // Create main frame
-        JFrame f = new JFrame("CGPA CALCULATOR");
+        JFrame f = new JFrame("SGPA CALCULATOR");
 
         // Grade options
         String[] p = {"A+","A","B","C","D","E"};
@@ -127,4 +127,5 @@ class SgpaCalculator implements ActionListener
         new SgpaCalculator();
     }
 }
+
 
